@@ -1,0 +1,65 @@
+body{
+    font-family: 'Poppins', sans-serif;
+text-align: justify;
+}
+h1{
+    font-size: 50px;
+}
+.green{
+    color: yellowgreen;
+}
+.yellow{
+    color: crimson;
+}
+.top{
+    display: flex;
+    margin-bottom: 50px;
+}
+.banner{
+
+    margin-bottom: 50px;
+    background-image: url(exp-bg.png);
+    background-repeat: no-repeat;
+}
+.half-width{
+    width: 50%;
+    padding-left: 10%;
+}
+.half-width img{
+    width: 80%;
+}
+.recipe{
+    color: rgb(43, 131, 226);
+    font-size: 50px;
+    text-align: center;
+}
+
+.box{
+    width: 60%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 5%;
+    box-shadow: 10px 10px 30px gray;
+    border-radius: 10px;
+
+}
+
+.rice-soup{
+    color: mediumvioletred;
+    text-align:center;
+}
+
+.button{
+    text-decoration: none;
+    background-image:linear-gradient(orangered,yellow);
+    color: white;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+
+
+footer{
+    text-align:center;
+
+}
